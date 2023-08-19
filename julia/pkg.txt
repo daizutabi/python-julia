@@ -5,7 +5,6 @@ DataFramesMeta
 Distributions
 FileIO
 Formatting
-Genie
 Glob
 Interpolations
 JSON3
@@ -15,7 +14,6 @@ OhMyREPL
 Pkg
 PkgTemplates
 Plots
-PortAudio
 ProgressMeter
 PythonCall
 PythonPlot
