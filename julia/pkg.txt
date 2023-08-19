@@ -4,6 +4,7 @@ DataFrames
 DataFramesMeta
 Distributions
 Formatting
+Genie
 Glob
 Interpolations
 JSON3
