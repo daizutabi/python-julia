@@ -1,0 +1,11 @@
+{
+    "words": [
+        "Daizu"
+    ],
+    "ignoreWords": [],
+    "flagWords": [],
+    "allowCompoundWords": true,
+    "ignorePaths": [
+        "pkg.txt"
+    ]
+}

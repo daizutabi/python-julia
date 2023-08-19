@@ -1,0 +1,17 @@
+black
+flake8
+numba
+isort
+jupyterlab
+jupyterlab_vim
+jupyterlab_execute_time
+matplotlib
+mypy
+nb_black
+numpy
+pandas
+pytest
+pytest-cov
+scipy
+seaborn
+sympy
